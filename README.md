@@ -68,8 +68,5 @@ images/
 
 ## Authors
 
-- Final Year Data Science and Computing Student
+- Madalina Ciolan
 
-## License
-
-For academic use only.
